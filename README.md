@@ -54,3 +54,5 @@ This project was developed as a learning and portfolio project to demonstrate co
 ---
 
 ## ▶How to Play
+
+- https://parthsp10.github.io/SpaceShmup/
